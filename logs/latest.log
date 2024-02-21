@@ -1,0 +1,58 @@
+[21:01:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:01:10] [ServerMain/INFO]: Loaded 7 recipes
+[21:01:10] [ServerMain/INFO]: Loaded 1271 advancements
+[21:01:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:01:11] [Server thread/INFO]: Loading properties
+[21:01:11] [Server thread/INFO]: Default game type: SURVIVAL
+[21:01:11] [Server thread/INFO]: Generating keypair
+[21:01:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:01:11] [Server thread/INFO]: Using epoll channel type
+[21:01:11] [Server thread/INFO]: Preparing level "world"
+[21:01:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:01:25] [Server thread/INFO]: Time elapsed: 9115 ms
+[21:01:25] [Server thread/INFO]: Done (14.356s)! For help, type "help"
+[21:01:57] [User Authenticator #1/INFO]: UUID of player FedePotciko is 55a59600-40b6-40f1-afd3-49c1a7d7d1a7
+[21:01:58] [Server thread/INFO]: FedePotciko[/[0:0:0:0:0:0:0:1%0]:44662] logged in with entity id 11 at (256.8830050025649, 64.5625, -1212.2454587652262)
+[21:01:58] [Server thread/INFO]: FedePotciko joined the game
+[21:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[21:43:27] [Server thread/INFO]: FedePotciko has made the advancement [Ice Bucket Challenge]
+[21:45:52] [User Authenticator #2/INFO]: UUID of player ZenSenpai is 22bf637d-34d8-425b-b23a-0aad1d4935b3
+[21:45:52] [Server thread/INFO]: ZenSenpai[/[0:0:0:0:0:0:0:1%0]:43578] logged in with entity id 7322 at (255.44333306876476, 64.5625, -1210.760154911541)
+[21:45:52] [Server thread/INFO]: ZenSenpai joined the game
+[22:14:52] [Server thread/INFO]: FedePotciko was slain by Husk
+[22:29:45] [Server thread/INFO]: FedePotciko has made the advancement [Getting an Upgrade]
+[22:31:50] [Server thread/INFO]: ZenSenpai was impaled on a stalagmite
+[22:39:07] [Server thread/INFO]: ZenSenpai has made the advancement [Suit Up]
+[22:39:14] [Server thread/INFO]: FedePotciko has made the advancement [Isn't It Iron Pick]
+[22:42:36] [Server thread/INFO]: FedePotciko has made the advancement [Suit Up]
+[22:52:50] [Server thread/INFO]: FedePotciko was impaled on a stalagmite
+[22:55:19] [Server thread/INFO]: ZenSenpai has made the advancement [Hot Stuff]
+[23:00:52] [Server thread/INFO]: [FedePotciko: Saved the game]
+[23:06:52] [Server thread/INFO]: <ZenSenpai> FINITO
+[23:06:57] [Server thread/INFO]: <ZenSenpai> piazzate tutte
+[23:07:12] [Server thread/INFO]: <FedePotciko> 4 stack di casse nice
+[23:07:22] [Server thread/INFO]: <ZenSenpai> ho screenshottato
+[23:26:20] [Server thread/INFO]: FedePotciko lost connection: Disconnected
+[23:26:20] [Server thread/INFO]: FedePotciko left the game
+[23:41:40] [Server thread/INFO]: ZenSenpai lost connection: Disconnected
+[23:41:40] [Server thread/INFO]: ZenSenpai left the game
+[23:41:47] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:41:47] [Server thread/INFO]: Saved the game

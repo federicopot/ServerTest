@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "55a59600-40b6-40f1-afd3-49c1a7d7d1a7",
+    "name": "FedePotciko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "22bf637d-34d8-425b-b23a-0aad1d4935b3",
+    "name": "ZenSenpai",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
